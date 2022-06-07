@@ -1,0 +1,14 @@
+{
+  "name": "btiexpress",
+  "version": "1.0.0",
+  "description": "MTN Back to the Top Initiative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BTI"
+  ],
+  "author": "Omowunmi Ekun",
+  "license": "MIT"
+}
